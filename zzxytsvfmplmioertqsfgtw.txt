@@ -25,13 +25,13 @@ User: Satria ISP:  Register: 22-05-2021  Expired: 21-06-2021
 Amcollection 27-05-2021 26-05-2021
 14.102.146.176
 User: Jinggo Registered: 6-7-2021 Expired: Lifetime
-51.79.250.37
+51.79.147.208
 User: Jinggo Registered: 6-7-2021 Expired: Lifetime
 51.79.206.50
 User : Jinggo
-51.79.160.25
+51.79.205.57
 User : Jinggo
-14.102.146.209
+165.22.100.68
 User : Jinggo
 124.217.247.215
 User : Jinggo
