@@ -91,3 +91,13 @@ Expired          : Lifetime
 =============================
 Thank you for using our service
 =============================
+
+Recapitulation
+
+User     : @QS_Legacy
+Register : 27-6-2021
+Expired  : Lifetime
+124.217.251.182
+Register : 28-6-2021
+Expired  : Lifetime
+51.79.207.45
