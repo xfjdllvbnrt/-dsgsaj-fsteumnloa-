@@ -104,3 +104,36 @@ Expired  : Lifetime
 
 chegu
 167.99.76.3
+
+=============================
+Script Register Information
+=============================
+User             : Satria
+40.90.163.78
+Registered    : 2021-07-21
+Expired       : 2021-08-05
+=============================
+Thank you for using our service
+=============================
+
+=============================
+Script Register Information
+=============================
+User             : Zall
+116.193.190.211
+Registered       : Bundle dengan VPS
+Expired          : 
+=============================
+Thank you for using our service
+=============================
+
+=============================
+Script Register Information
+=============================
+User             : FendyVPN
+103.136.19.62
+Registered       : 2021-07-18
+Expired          : Lifetime
+=============================
+Thank you for using our service
+=============================
