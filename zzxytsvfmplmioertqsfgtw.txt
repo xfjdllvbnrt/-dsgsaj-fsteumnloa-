@@ -47,3 +47,17 @@ Expired          : Lifetime
 =============================
 Thank you for using our service
 =============================
+
+=============================
+Script Register Information
+=============================
+User             : @AxxxR57
+124.217.247.44
+124.217.251.178
+209.141.52.215
+43.249.38.233
+Registered       : 2021-07-21
+Expired          : Lifetime
+=============================
+Thank you for using our service
+=============================
