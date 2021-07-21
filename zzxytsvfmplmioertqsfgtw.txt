@@ -23,3 +23,15 @@ Expired          : 2021-07-22
 =============================
 Thank you for using our service
 =============================
+
+=============================
+Script Register Information
+=============================
+User             : Mie Naruto
+116.193.191.182
+103.136.19.53
+Registered       : Bundle dengan VPS
+Expired          : 
+=============================
+Thank you for using our service
+=============================
