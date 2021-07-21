@@ -35,3 +35,15 @@ Expired          :
 =============================
 Thank you for using our service
 =============================
+
+=============================
+Script Register Information
+=============================
+User             : @dsblec
+20.188.113.42
+128.199.218.72
+Registered       : 2021-07-21
+Expired          : Lifetime
+=============================
+Thank you for using our service
+=============================
