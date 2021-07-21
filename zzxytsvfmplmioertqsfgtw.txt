@@ -144,7 +144,7 @@ Thank you for using our service
 Script Register Information
 =============================
 User             : @aramaiti85
-128.199.234.107
+139.59.126.203
 Registered       : 2021-07-15
 Expired          : 2021-08-14
 =============================
