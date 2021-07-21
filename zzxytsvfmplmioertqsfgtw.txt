@@ -61,3 +61,14 @@ Expired          : Lifetime
 =============================
 Thank you for using our service
 =============================
+
+=============================
+Script Register Information
+=============================
+User             : @ridzvpn
+128.199.191.55
+Registered       : 2021-07-17
+Expired          : Lifetime
+=============================
+Thank you for using our service
+=============================
