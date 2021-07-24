@@ -95,6 +95,16 @@ Expired          : Lifetime
 =============================
 Thank you for using our service
 =============================
+=============================
+Script Register Information
+=============================
+User             : @jinggo007
+51.79.249.86
+Registered       : 2021-07-24
+Expired          : Lifetime
+=============================
+Thank you for using our service
+=============================
 
 Recapitulation
 
