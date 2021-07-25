@@ -77,8 +77,17 @@ Expired          : Lifetime
 =============================
 Thank you for using our service
 =============================
+=============================
+Script Register Information
+=============================
+User             : @AxxxR57
+51.79.145.142
+Registered       : 2021-07-25
+Expired          : 2021-07-26
+=============================
+Thank you for using our service
+=============================
 
-[In reply to JinGGo]
 =============================
 Script Register Information
 =============================
