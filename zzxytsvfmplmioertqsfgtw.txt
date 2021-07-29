@@ -195,3 +195,14 @@ Expired       : 2021-08-10
 =============================
 Thank you for using our service
 =============================
+
+=============================
+Script Register Information
+=============================
+User             : diyoz
+27.112.78.250
+Registered : 2021-07-06
+Expired       : 2021-08-05
+=============================
+Thank you for using our service
+=============================
