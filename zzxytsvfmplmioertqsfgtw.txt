@@ -39,6 +39,8 @@ L
 103.147.32.77
 
 Trial
+Edi
+103.214.112.21
 
 =============================
 Script Register Information
